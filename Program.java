@@ -24,6 +24,10 @@ public class Bicycle {
     public void setGear(int newValue) {
         gear = newValue;
     }
+	
+	public void setYear(int newValue) {
+        year = newValue;
+    }
         
     public void applyBrake(int decrement) {
         speed -= decrement;
