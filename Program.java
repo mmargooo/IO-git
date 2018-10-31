@@ -1,7 +1,7 @@
 public class Bicycle {
         
     // the Bicycle class has
-    // three fields
+    // four fields
     public int cadence;
     public int gear;
     public int speed;
